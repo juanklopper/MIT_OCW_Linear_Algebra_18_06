@@ -2,7 +2,7 @@
 Thumbs.db
 ehthumbs.db
 
-ipynb_checkpoints/*
+.ipynb_checkpoints/*
 
 # Folder config file
 Desktop.ini
